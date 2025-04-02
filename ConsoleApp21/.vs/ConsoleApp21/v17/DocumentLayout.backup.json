@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442\\ConsoleApp21\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E84633D-F1D7-4A17-83D2-52057BB5D1DD}|ConsoleApp21\\ConsoleApp21.csproj|c:\\users\\asus\\onedrive\\desktop\\\u043F\u0440\u0430\u043A\u0442\\consoleapp21\\consoleapp21\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E84633D-F1D7-4A17-83D2-52057BB5D1DD}|ConsoleApp21\\ConsoleApp21.csproj|solutionrelative:consoleapp21\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442\\ConsoleApp21\\ConsoleApp21\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp21\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\\u041F\u0440\u0430\u043A\u0442\\ConsoleApp21\\ConsoleApp21\\Program.cs*",
+              "RelativeToolTip": "ConsoleApp21\\Program.cs*",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAwwGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T05:36:58.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

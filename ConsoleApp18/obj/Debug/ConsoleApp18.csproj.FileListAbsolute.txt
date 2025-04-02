@@ -1,0 +1,14 @@
+C:\Users\maksi\source\repos\ConsoleApp18\bin\Debug\ConsoleApp18.exe.config
+C:\Users\maksi\source\repos\ConsoleApp18\bin\Debug\ConsoleApp18.exe
+C:\Users\maksi\source\repos\ConsoleApp18\bin\Debug\ConsoleApp18.pdb
+C:\Users\maksi\source\repos\ConsoleApp18\obj\Debug\ConsoleApp18.csproj.AssemblyReference.cache
+C:\Users\maksi\source\repos\ConsoleApp18\obj\Debug\ConsoleApp18.csproj.CoreCompileInputs.cache
+C:\Users\maksi\source\repos\ConsoleApp18\obj\Debug\ConsoleApp18.exe
+C:\Users\maksi\source\repos\ConsoleApp18\obj\Debug\ConsoleApp18.pdb
+C:\Users\ASUS\OneDrive\Desktop\Практ\ConsoleApp18\bin\Debug\ConsoleApp18.exe.config
+C:\Users\ASUS\OneDrive\Desktop\Практ\ConsoleApp18\bin\Debug\ConsoleApp18.exe
+C:\Users\ASUS\OneDrive\Desktop\Практ\ConsoleApp18\bin\Debug\ConsoleApp18.pdb
+C:\Users\ASUS\OneDrive\Desktop\Практ\ConsoleApp18\obj\Debug\ConsoleApp18.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Desktop\Практ\ConsoleApp18\obj\Debug\ConsoleApp18.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\Практ\ConsoleApp18\obj\Debug\ConsoleApp18.exe
+C:\Users\ASUS\OneDrive\Desktop\Практ\ConsoleApp18\obj\Debug\ConsoleApp18.pdb
